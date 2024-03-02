@@ -1,0 +1,1 @@
+This Repo is a series of notebooks tackling customer segementation and Churn predictions.
