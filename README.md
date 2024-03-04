@@ -16,7 +16,7 @@ Welcome to the Customer Segmentation and Churn Prediction Repository! This colle
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/customer-segmentation-churn-prediction.git
+   git clone https://github.com/elmondhir/customer-segmentation-tuto.git
 
 2. **Install Dependencies:**
    ```bash
