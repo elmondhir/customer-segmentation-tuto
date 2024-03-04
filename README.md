@@ -17,3 +17,13 @@ Welcome to the Customer Segmentation and Churn Prediction Repository! This colle
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/customer-segmentation-churn-prediction.git
+
+2. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+2. **Open Notebooks:**
+    - Launch Jupyter Notebook or Jupyter Lab.
+    - Navigate to the cloned repository and open the desired notebook.
+2. **Run Notebooks:**
+    - Execute each cell in the notebooks
